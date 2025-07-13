@@ -1,0 +1,1 @@
+<?php echo apply_filters( 'taaza_footer_get_template_part', taaza_get_template_part( 'footer', 'templates/footer', '', array() ) ); ?>

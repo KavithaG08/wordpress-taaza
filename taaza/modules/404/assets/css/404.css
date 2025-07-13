@@ -1,0 +1,111 @@
+/*--------------------------------------------------------------
+    404 Error / Not-found Page
+--------------------------------------------------------------*/
+
+	.error404, .error404 > .wrapper { width:100%; height:100%; }
+	.error404 > .wrapper { display: flex; padding: 35px 0 50px; }
+
+	.center-content-wrapper { display:table; width:100%; height:100%; }
+	.center-content-wrapper .center-content { display:table-cell; width:100%; height:100%; vertical-align:middle; }
+
+	.error404 h1, .error404 h2, .error404 h3, .error404 h4, .error404 h5, .error404 h6 { line-height: 1em; }
+	.error404 h2 { font-size: 170px; font-weight: var(--wdtFontWeight_Alt); }
+	.error404 h3 { font-size: 70px; font-weight: var(--wdtFontWeight_Alt); }
+	.error404 h4 { font-size: 60px; font-weight: var(--wdtFontWeight_Alt); }
+	.error404 .wdt-button, .error404 .wdt-button.type2 { margin-top: 20px; }
+	
+	.error404 .type2 #wdt-style-picker ul li::before, .error404 #wdt-style-picker ul li:before { content:none; }
+	.error404 .type2 #wdt-style-picker h3, .error404 #wdt-style-picker h3 { letter-spacing:0; text-transform:capitalize; }
+	.error404 #wdt-style-picker h2 { top:0; }
+
+	.error-box-inner * { text-align: center; }
+
+	.error404 .menu-links { margin:40px 0; }
+	.error404 .menu-links li { display:inline-block; text-transform:uppercase; font-size:16px; padding:0; margin:0 2px 5px; }
+	.error404 .menu-links li a { padding:7px 20px; display:inline-block; }
+
+	.error404 #searchform .wdt-search-icon { display:none; }
+	.error404 #searchform { display: inline-block; margin: 0 auto; position: relative; width: 60%; }
+	.error404 #searchform input[type="text"], .error404 #searchform input[type="submit"] { height:52px; }
+    .error404 #searchform input[type="submit"] { border-radius: 0; padding: 13px 20px 13px; position: absolute; right: 0; top: 0; margin-top:0; }
+
+    .error404 .container { height:100%; text-align:center; }
+
+
+	/* Type-7 */
+
+	body.error404 div.wrapper { background-image: url(../images/404-Error.jpg); background-attachment: inherit; 
+		background-position: center center; background-size: cover; background-repeat: no-repeat; }
+
+	body.error404 div.wrapper.type7 .container,
+	body.error404 div.wrapper.type7 .container .error-box,
+	body.error404 div.wrapper.type7 .container .error-box .error-box-inner, 
+	body.error404 div.wrapper.type7 .container .error-box .error-box-inner * { text-align: start; }
+
+	body.error404 div.wrapper.type7 .center-content-wrapper { max-width: 600px; margin-right: auto; }
+
+	body.error404 div.wrapper.type7 span { font-size: var(--wdtFontSize_Ext); display: block;
+		font-weight: var(--wdtFontWeight_H6); letter-spacing: 0.15em; text-transform: uppercase;
+		margin-bottom: clamp(0.375rem, 0.3173rem + 0.2564vw, 0.625rem); }
+
+	body.error404 div.wrapper.type7 h2 { font-size: clamp(2.5rem, 2.0673rem + 1.9231vw, 4.375rem); /* Min-40 & Max-70 */
+		font-weight: bold; color: var(--wdtHeadAltColor); margin: 0; line-height: 1em; 
+		margin: 0 0 clamp(1.125rem, 0.8654rem + 1.1538vw, 2.25rem); /* Min-18 & Max-36 */}
+	body.error404 div.wrapper.type7 h3 { font-size: clamp(1.875rem, 1.6731rem + 0.8974vw, 2.75rem); /* Min-30 & Max-44 */ 
+		margin: 10px 0 clamp(1.125rem, 1.0385rem + 0.3846vw, 1.5rem); /* Min-18 & Max-24 */ }
+
+	body.error404 div.wrapper.type7 h4 { font-size: clamp(2.5rem, 2.2115rem + 1.2821vw, 3.75rem); /* Min-40 & Max-60 */ 
+		margin: 0px 0px clamp(1.125rem, 1.0385rem + 0.3846vw, 1.5rem); /* Min-18 & Max-24 */ line-height: normal; }
+
+	body.error404 div.wrapper.type7.wdt-dark-bg .center-content-wrapper { background-color: rgba(0,0,0,0.45); 
+		-webkit-box-shadow: 0px 0px 0px 100vmax rgba(0,0,0,0.45); box-shadow: 0px 0px 0px 100vmax rgba(0,0,0,0.45); } 
+
+
+
+/*--------------------------------------------------------------
+    Default Colors
+--------------------------------------------------------------*/
+
+	.error404 .wdt-dark-bg, .error404 .menu-links li:hover a { background: var(--wdtHeadAltColor); }
+	.error404 .menu-links li a { background:rgba(var(--wdtHeadAltColorRgb),0.05); }
+
+	.error404 .wdt-button, .error404 .wdt-button.type2, .error404 .menu-links li:hover a { color: var(--wdtAccentTxtColor); }
+
+	.error404 .wdt-button { background-color: var(--wdtPrimaryColor); }
+	.error404 .wdt-button:hover { background-color: var(--wdtSecondaryColor); }
+
+	.error404 .menu-links li a { color: var(--wdtHeadAltColor); }
+
+
+
+/*--------------------------------------------------------------
+    Accents
+--------------------------------------------------------------*/
+
+	.error404 h2 { color: var(--wdtPrimaryColor); }
+
+
+
+/*--------------------------------------------------------------
+ Responsive
+--------------------------------------------------------------*/
+
+@media only screen and (max-width: 1024px) {
+	body.error404 div.wrapper.type7 .container,
+	body.error404 div.wrapper.type7 .container .error-box,
+	body.error404 div.wrapper.type7 .container .error-box .error-box-inner, 
+	body.error404 div.wrapper.type7 .container .error-box .error-box-inner * { text-align: center; }
+
+	body.error404 div.wrapper.type7 .center-content-wrapper { margin-left: auto; margin-right: auto; background-color: rgba(var(--wdtTertiaryColorRgb),0.9); 
+		-webkit-box-shadow: 0px 0px 0px 100vmax rgba(var(--wdtTertiaryColorRgb),0.9); box-shadow: 0px 0px 0px 100vmax rgba(var(--wdtTertiaryColorRgb),0.9); } 
+
+}
+
+/* Common Styles for the devices below 479px width */
+@media only screen and (max-width: 479px) {
+
+	.error404 div.wrapper:not(.type7) h2 { font-size: var(--wdtFontSize_H1); }
+	.error404 div.wrapper:not(.type7) h3 { font-size: var(--wdtFontSize_H2); }
+	.error404 div.wrapper:not(.type7) h4 { font-size: var(--wdtFontSize_H3); }
+
+}

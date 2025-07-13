@@ -1,0 +1,2754 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Booking Manager Plugin\n"
+"POT-Creation-Date: 2025-01-31 14:05+0530\n"
+"PO-Revision-Date: 2017-01-06 19:39+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../assets/register-assets.php:37
+msgid "Name:"
+msgstr ""
+
+#: ../assets/register-assets.php:38
+msgid "Phone:"
+msgstr ""
+
+#: ../assets/register-assets.php:39
+msgid "Email"
+msgstr ""
+
+#: ../assets/register-assets.php:40
+msgid "Address"
+msgstr ""
+
+#: ../assets/register-assets.php:41
+msgid "Message"
+msgstr ""
+
+#: ../assets/register-assets.php:43
+msgid "Please Select Room and Date!"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/base.php:29
+msgid "Reservation"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:10
+msgid "Reservaton Form"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:16
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:16
+#: ../cs-framework-override/config/shortcodes/room_list.php:47
+#: ../post-types/dt-room-post-type.php:355
+#: ../post-types/dt-staff-post-type.php:488
+#: ../widgets/modules/class-widget-reservation-form.php:34
+#: ../widgets/modules/class-widget-reserve-appointment.php:34
+#: ../widgets/modules/class-widget-room-list.php:70
+#: ../widgets/modules/class-widget-view-reservations.php:31
+msgid "Title"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:21
+#: ../widgets/modules/class-widget-room-item.php:57
+msgid "Room IDs"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:28
+msgid "Select Some Rooms"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:32
+msgid "Enter room name & pick."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:37
+msgid "Staff IDs"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:44
+msgid "Select Some Staffs"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:48
+msgid "Enter staff name & pick."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:10
+msgid "Reserve Appointment"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:21
+#: ../cs-framework-override/config/shortcodes/room_item.php:27
+#: ../cs-framework-override/config/shortcodes/room_list.php:49
+#: ../cs-framework-override/config/shortcodes/staff_item.php:27
+#: ../widgets/modules/class-widget-amenity.php:54
+#: ../widgets/modules/class-widget-room-item.php:65
+#: ../widgets/modules/class-widget-room-list.php:72
+#: ../widgets/modules/class-widget-staff-item.php:66
+#: ../widgets/modules/class-widget-view-reservations.php:96
+msgid "Type"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:23
+#: ../widgets/modules/class-widget-amenity.php:58
+#: ../widgets/modules/class-widget-room-item.php:69
+#: ../widgets/modules/class-widget-staff-item.php:70
+msgid "Type - I"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:24
+#: ../widgets/modules/class-widget-amenity.php:59
+#: ../widgets/modules/class-widget-room-item.php:70
+#: ../widgets/modules/class-widget-staff-item.php:71
+msgid "Type - II"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:28
+msgid "Choose type of reservation to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:10
+#: ../cs-framework-override/config/shortcodes/room_list.php:10
+#: ../post-types/dt-room-post-type.php:55
+#: ../post-types/dt-room-post-type.php:205
+#: ../post-types/dt-room-post-type.php:380
+#: ../widgets/modules/class-widget-room-item.php:43
+#: ../widgets/modules/class-widget-room-item.php:45
+#: ../widgets/modules/class-widget-room-list.php:35
+#: ../widgets/modules/class-widget-room-list.php:38
+#: ../widgets/modules/class-widget-view-reservations.php:94
+msgid "Room"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:21
+msgid "Enter Room ID"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:22
+msgid ""
+"Enter IDs of rooms to display. More than one ids with comma(,) seperated."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:29
+#: ../cs-framework-override/config/shortcodes/staff_item.php:29
+msgid "Type - 1"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:30
+#: ../cs-framework-override/config/shortcodes/staff_item.php:30
+msgid "Type - 2"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:34
+msgid "Choose type of rooms to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:39
+#: ../widgets/modules/class-widget-amenity.php:142
+#: ../widgets/modules/class-widget-room-item.php:81
+#: ../widgets/modules/class-widget-room-list.php:99
+#: ../widgets/modules/class-widget-staff-item.php:77
+msgid "Show Excerpt?"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:41
+#: ../cs-framework-override/config/shortcodes/room_item.php:59
+#: ../cs-framework-override/config/shortcodes/staff_item.php:41
+#: ../widgets/modules/class-widget-amenity.php:146
+#: ../widgets/modules/class-widget-amenity.php:156
+#: ../widgets/modules/class-widget-room-item.php:85
+#: ../widgets/modules/class-widget-room-item.php:101
+#: ../widgets/modules/class-widget-room-item.php:111
+#: ../widgets/modules/class-widget-room-list.php:93
+#: ../widgets/modules/class-widget-room-list.php:103
+#: ../widgets/modules/class-widget-room-list.php:113
+#: ../widgets/modules/class-widget-room-list.php:123
+#: ../widgets/modules/class-widget-staff-item.php:81
+#: ../widgets/modules/class-widget-staff-item.php:100
+msgid "Yes"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:42
+#: ../cs-framework-override/config/shortcodes/room_item.php:60
+#: ../cs-framework-override/config/shortcodes/staff_item.php:42
+#: ../post-types/dt-room-post-type.php:77
+#: ../post-types/dt-room-post-type.php:78
+#: ../post-types/dt-staff-post-type.php:96
+#: ../post-types/dt-staff-post-type.php:97
+#: ../widgets/modules/class-widget-amenity.php:147
+#: ../widgets/modules/class-widget-amenity.php:157
+#: ../widgets/modules/class-widget-room-item.php:86
+#: ../widgets/modules/class-widget-room-item.php:102
+#: ../widgets/modules/class-widget-room-item.php:112
+#: ../widgets/modules/class-widget-room-list.php:94
+#: ../widgets/modules/class-widget-room-list.php:104
+#: ../widgets/modules/class-widget-room-list.php:114
+#: ../widgets/modules/class-widget-room-list.php:124
+#: ../widgets/modules/class-widget-staff-item.php:82
+#: ../widgets/modules/class-widget-staff-item.php:101
+msgid "No"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:46
+msgid "Choose \"Yes\" to show excerpt."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:51
+#: ../post-types/dt-room-post-type.php:264
+#: ../widgets/modules/class-widget-room-item.php:91
+#: ../widgets/modules/class-widget-room-list.php:129
+#: ../widgets/modules/class-widget-staff-item.php:87
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:57
+#: ../widgets/modules/class-widget-room-item.php:97
+msgid "Show Meta?"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:64
+msgid "Choose \"Yes\" to show meta."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:69
+#: ../cs-framework-override/config/shortcodes/staff_item.php:51
+#: ../widgets/modules/class-widget-amenity.php:162
+#: ../widgets/modules/class-widget-room-item.php:117
+#: ../widgets/modules/class-widget-staff-item.php:106
+msgid "Button Text"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:70
+#: ../templates/archive-room.php:130
+#: ../templates/room-search-results.php:122
+#: ../templates/taxonomy-amenity.php:168
+#: ../widgets/modules/class-widget-amenity.php:164
+#: ../widgets/modules/class-widget-room-item.php:119
+#: ../widgets/modules/class-widget-room-list.php:294
+msgid "Read More"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_item.php:71
+#: ../cs-framework-override/config/shortcodes/staff_item.php:53
+msgid "Enter button text."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:15
+#: ../widgets/modules/class-widget-room-list.php:19
+msgid " List"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:21
+#: ../widgets/modules/class-widget-room-list.php:51
+msgid "Terms"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:29
+msgid "Select room category"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:33
+msgid "Choose room as you want."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:38
+msgid "Products Per Page"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:44
+#: ../widgets/modules/class-widget-room-list.php:65
+msgid "Order by"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:46
+#: ../cs-framework/classes/options.class.php:161
+#: ../widgets/modules/class-widget-room-list.php:69
+msgid "ID"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:48
+#: ../post-types/dt-room-post-type.php:124
+#: ../post-types/dt-room-post-type.php:151
+#: ../post-types/dt-room-post-type.php:278
+#: ../post-types/dt-room-post-type.php:286
+#: ../post-types/dt-room-post-type.php:294
+#: ../post-types/dt-room-post-type.php:302
+#: ../post-types/dt-room-post-type.php:310
+#: ../post-types/dt-room-post-type.php:318
+#: ../post-types/dt-staff-post-type.php:143
+#: ../post-types/dt-staff-post-type.php:247
+#: ../post-types/dt-staff-post-type.php:255
+#: ../post-types/dt-staff-post-type.php:263
+#: ../post-types/dt-staff-post-type.php:271
+#: ../widgets/modules/class-widget-room-list.php:71
+msgid "Name"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:50
+#: ../widgets/modules/class-widget-room-list.php:73
+#: ../widgets/modules/class-widget-view-reservations.php:93
+msgid "Date"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:51
+#: ../widgets/modules/class-widget-room-list.php:74
+msgid "Random"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:55
+msgid "Choose orderby of rooms to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:60
+#: ../widgets/modules/class-widget-room-list.php:79
+msgid "Sort order"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:62
+#: ../widgets/modules/class-widget-room-list.php:83
+msgid "Descending"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:63
+#: ../widgets/modules/class-widget-room-list.php:84
+msgid "Ascending"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:67
+msgid "Choose order of rooms to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:72
+#: ../widgets/modules/class-widget-reservation-form.php:41
+#: ../widgets/modules/class-widget-reserve-appointment.php:41
+#: ../widgets/modules/class-widget-room-list.php:136
+#: ../widgets/modules/class-widget-view-reservations.php:38
+msgid "Extra class name"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/room_list.php:73
+msgid ""
+"If you wish to style particular content element differently, then use "
+"this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:10
+#: ../post-types/dt-staff-post-type.php:80
+#: ../post-types/dt-staff-post-type.php:165
+#: ../post-types/dt-staff-post-type.php:356
+#: ../widgets/modules/class-widget-staff-item.php:36
+#: ../widgets/modules/class-widget-staff-item.php:39
+msgid "Staff"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:21
+#: ../widgets/modules/class-widget-staff-item.php:52
+msgid "Enter Staff ID"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:22
+msgid ""
+"Enter ID of staff to display. More than one ids with comma(,) seperated."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:34
+msgid "Choose type of staffs to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:39
+#: ../widgets/modules/class-widget-staff-item.php:96
+msgid "Show button?"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:46
+msgid "Choose \"Yes\" to show button."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:52
+#: ../widgets/modules/class-widget-staff-item.php:108
+msgid "Book an appointment"
+msgstr ""
+
+#: ../cs-framework-override/fields/text/text.php:21
+msgid "Menu Slug"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:171
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:176
+msgid "Default options restored."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:195
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:333
+msgid "Settings saved."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:335
+msgid "Save"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:335
+msgid "Saving..."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:336
+msgid "Restore"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:339
+#: ../cs-framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:343
+msgid "show all options"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:131
+msgid "CONFIG"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:137
+#: ../cs-framework/classes/options.class.php:157
+msgid "USAGE"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:143
+msgid "VALUE"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:233
+#, php-format
+msgid "You are editing language: ( %s )"
+msgstr ""
+
+#: ../cs-framework/classes/shortcode.class.php:82
+#: ../cs-framework/classes/shortcode.class.php:90
+#: ../cs-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../cs-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: ../cs-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../cs-framework/fields/background/background.php:34
+#: ../cs-framework/fields/background/background.php:35
+#: ../cs-framework/fields/upload/upload.php:23
+#: ../cs-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: ../cs-framework/fields/background/background.php:36
+#: ../cs-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: ../cs-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: ../cs-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../cs-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: ../cs-framework/fields/group/group.php:22
+msgid "Adding"
+msgstr ""
+
+#: ../cs-framework/fields/group/group.php:45
+#: ../cs-framework/fields/group/group.php:77
+msgid "Remove"
+msgstr ""
+
+#: ../cs-framework/fields/icon/icon.php:25
+#: ../cs-framework/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: ../cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: ../cs-framework/fields/image/image.php:22
+#: ../post-types/taxonomy-custom-fields.php:69
+#: ../post-types/taxonomy-custom-fields.php:159
+msgid "Add Image"
+msgstr ""
+
+#: ../cs-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: ../cs-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: ../cs-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: ../cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: ../cs-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: ../cs-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: ../cs-framework/fields/typography/typography.php:107
+#: ../cs-framework/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: ../cs-framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: ../cs-framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: ../cs-framework/functions/helpers.php:49
+msgid "This field class is not available!"
+msgstr ""
+
+#: ../cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: ../cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: ../cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: ../functions/cal-reservation-functions.php:13
+msgid "Image Preview"
+msgstr ""
+
+#: ../functions/cal-reservation-functions.php:15
+msgid "Image Preview Tooltip"
+msgstr ""
+
+#: ../functions/cal-reservation-functions.php:282
+msgid "Available timings on "
+msgstr ""
+
+#: ../functions/core-functions.php:98
+#, php-format
+msgid "%d hr"
+msgstr ""
+
+#: ../functions/core-functions.php:98
+#, php-format
+msgid "%d hrs"
+msgstr ""
+
+#: ../functions/core-functions.php:105
+#, php-format
+msgid "%d mins"
+msgstr ""
+
+#: ../functions/core-functions.php:172
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: ../functions/core-functions.php:173
+msgid "Afghan afghani"
+msgstr ""
+
+#: ../functions/core-functions.php:174
+msgid "Albanian lek"
+msgstr ""
+
+#: ../functions/core-functions.php:175
+msgid "Armenian dram"
+msgstr ""
+
+#: ../functions/core-functions.php:176
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: ../functions/core-functions.php:177
+msgid "Angolan kwanza"
+msgstr ""
+
+#: ../functions/core-functions.php:178
+msgid "Argentine peso"
+msgstr ""
+
+#: ../functions/core-functions.php:179
+msgid "Australian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:180
+msgid "Aruban florin"
+msgstr ""
+
+#: ../functions/core-functions.php:181
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: ../functions/core-functions.php:182
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: ../functions/core-functions.php:183
+msgid "Barbadian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:184
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: ../functions/core-functions.php:185
+msgid "Bulgarian lev"
+msgstr ""
+
+#: ../functions/core-functions.php:186
+msgid "Bahraini dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:187
+msgid "Burundian franc"
+msgstr ""
+
+#: ../functions/core-functions.php:188
+msgid "Bermudian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:189
+msgid "Brunei dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:190
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: ../functions/core-functions.php:191
+msgid "Brazilian real"
+msgstr ""
+
+#: ../functions/core-functions.php:192
+msgid "Bahamian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:193
+msgid "Bitcoin"
+msgstr ""
+
+#: ../functions/core-functions.php:194
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: ../functions/core-functions.php:195
+msgid "Botswana pula"
+msgstr ""
+
+#: ../functions/core-functions.php:196
+msgid "Belarusian ruble"
+msgstr ""
+
+#: ../functions/core-functions.php:197
+msgid "Belize dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:198
+msgid "Canadian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:199
+msgid "Congolese franc"
+msgstr ""
+
+#: ../functions/core-functions.php:200
+msgid "Swiss franc"
+msgstr ""
+
+#: ../functions/core-functions.php:201
+msgid "Chilean peso"
+msgstr ""
+
+#: ../functions/core-functions.php:202
+msgid "Chinese yuan"
+msgstr ""
+
+#: ../functions/core-functions.php:203
+msgid "Colombian peso"
+msgstr ""
+
+#: ../functions/core-functions.php:204
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: ../functions/core-functions.php:205
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: ../functions/core-functions.php:206
+msgid "Cuban peso"
+msgstr ""
+
+#: ../functions/core-functions.php:207
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: ../functions/core-functions.php:208
+msgid "Czech koruna"
+msgstr ""
+
+#: ../functions/core-functions.php:209
+msgid "Djiboutian franc"
+msgstr ""
+
+#: ../functions/core-functions.php:210
+msgid "Danish krone"
+msgstr ""
+
+#: ../functions/core-functions.php:211
+msgid "Dominican peso"
+msgstr ""
+
+#: ../functions/core-functions.php:212
+msgid "Algerian dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:213
+msgid "Egyptian pound"
+msgstr ""
+
+#: ../functions/core-functions.php:214
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: ../functions/core-functions.php:215
+msgid "Ethiopian birr"
+msgstr ""
+
+#: ../functions/core-functions.php:216
+msgid "Euro"
+msgstr ""
+
+#: ../functions/core-functions.php:217
+msgid "Fijian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:218
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: ../functions/core-functions.php:219
+msgid "Pound sterling"
+msgstr ""
+
+#: ../functions/core-functions.php:220
+msgid "Georgian lari"
+msgstr ""
+
+#: ../functions/core-functions.php:221
+msgid "Guernsey pound"
+msgstr ""
+
+#: ../functions/core-functions.php:222
+msgid "Ghana cedi"
+msgstr ""
+
+#: ../functions/core-functions.php:223
+msgid "Gibraltar pound"
+msgstr ""
+
+#: ../functions/core-functions.php:224
+msgid "Gambian dalasi"
+msgstr ""
+
+#: ../functions/core-functions.php:225
+msgid "Guinean franc"
+msgstr ""
+
+#: ../functions/core-functions.php:226
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: ../functions/core-functions.php:227
+msgid "Guyanese dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:228
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:229
+msgid "Honduran lempira"
+msgstr ""
+
+#: ../functions/core-functions.php:230
+msgid "Croatian kuna"
+msgstr ""
+
+#: ../functions/core-functions.php:231
+msgid "Haitian gourde"
+msgstr ""
+
+#: ../functions/core-functions.php:232
+msgid "Hungarian forint"
+msgstr ""
+
+#: ../functions/core-functions.php:233
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: ../functions/core-functions.php:234
+msgid "Israeli new shekel"
+msgstr ""
+
+#: ../functions/core-functions.php:235
+msgid "Manx pound"
+msgstr ""
+
+#: ../functions/core-functions.php:236
+msgid "Indian rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:237
+msgid "Iraqi dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:238
+msgid "Iranian rial"
+msgstr ""
+
+#: ../functions/core-functions.php:239
+msgid "Iranian toman"
+msgstr ""
+
+#: ../functions/core-functions.php:240
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: ../functions/core-functions.php:241
+msgid "Jersey pound"
+msgstr ""
+
+#: ../functions/core-functions.php:242
+msgid "Jamaican dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:243
+msgid "Jordanian dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:244
+msgid "Japanese yen"
+msgstr ""
+
+#: ../functions/core-functions.php:245
+msgid "Kenyan shilling"
+msgstr ""
+
+#: ../functions/core-functions.php:246
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: ../functions/core-functions.php:247
+msgid "Cambodian riel"
+msgstr ""
+
+#: ../functions/core-functions.php:248
+msgid "Comorian franc"
+msgstr ""
+
+#: ../functions/core-functions.php:249
+msgid "North Korean won"
+msgstr ""
+
+#: ../functions/core-functions.php:250
+msgid "South Korean won"
+msgstr ""
+
+#: ../functions/core-functions.php:251
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:252
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:253
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: ../functions/core-functions.php:254
+msgid "Lao kip"
+msgstr ""
+
+#: ../functions/core-functions.php:255
+msgid "Lebanese pound"
+msgstr ""
+
+#: ../functions/core-functions.php:256
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:257
+msgid "Liberian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:258
+msgid "Lesotho loti"
+msgstr ""
+
+#: ../functions/core-functions.php:259
+msgid "Libyan dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:260
+msgid "Moroccan dirham"
+msgstr ""
+
+#: ../functions/core-functions.php:261
+msgid "Moldovan leu"
+msgstr ""
+
+#: ../functions/core-functions.php:262
+msgid "Malagasy ariary"
+msgstr ""
+
+#: ../functions/core-functions.php:263
+msgid "Macedonian denar"
+msgstr ""
+
+#: ../functions/core-functions.php:264
+msgid "Burmese kyat"
+msgstr ""
+
+#: ../functions/core-functions.php:265
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: ../functions/core-functions.php:266
+msgid "Macanese pataca"
+msgstr ""
+
+#: ../functions/core-functions.php:267
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: ../functions/core-functions.php:268
+msgid "Mauritian rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:269
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: ../functions/core-functions.php:270
+msgid "Malawian kwacha"
+msgstr ""
+
+#: ../functions/core-functions.php:271
+msgid "Mexican peso"
+msgstr ""
+
+#: ../functions/core-functions.php:272
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: ../functions/core-functions.php:273
+msgid "Mozambican metical"
+msgstr ""
+
+#: ../functions/core-functions.php:274
+msgid "Namibian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:275
+msgid "Nigerian naira"
+msgstr ""
+
+#: ../functions/core-functions.php:276
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: ../functions/core-functions.php:277
+msgid "Norwegian krone"
+msgstr ""
+
+#: ../functions/core-functions.php:278
+msgid "Nepalese rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:279
+msgid "New Zealand dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:280
+msgid "Omani rial"
+msgstr ""
+
+#: ../functions/core-functions.php:281
+msgid "Panamanian balboa"
+msgstr ""
+
+#: ../functions/core-functions.php:282
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: ../functions/core-functions.php:283
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: ../functions/core-functions.php:284
+msgid "Philippine peso"
+msgstr ""
+
+#: ../functions/core-functions.php:285
+msgid "Pakistani rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:286
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: ../functions/core-functions.php:287
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: ../functions/core-functions.php:288
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: ../functions/core-functions.php:289
+msgid "Qatari riyal"
+msgstr ""
+
+#: ../functions/core-functions.php:290
+msgid "Romanian leu"
+msgstr ""
+
+#: ../functions/core-functions.php:291
+msgid "Serbian dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:292
+msgid "Russian ruble"
+msgstr ""
+
+#: ../functions/core-functions.php:293
+msgid "Rwandan franc"
+msgstr ""
+
+#: ../functions/core-functions.php:294
+msgid "Saudi riyal"
+msgstr ""
+
+#: ../functions/core-functions.php:295
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:296
+msgid "Seychellois rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:297
+msgid "Sudanese pound"
+msgstr ""
+
+#: ../functions/core-functions.php:298
+msgid "Swedish krona"
+msgstr ""
+
+#: ../functions/core-functions.php:299
+msgid "Singapore dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:300
+msgid "Saint Helena pound"
+msgstr ""
+
+#: ../functions/core-functions.php:301
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: ../functions/core-functions.php:302
+msgid "Somali shilling"
+msgstr ""
+
+#: ../functions/core-functions.php:303
+msgid "Surinamese dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:304
+msgid "South Sudanese pound"
+msgstr ""
+
+#: ../functions/core-functions.php:305
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: ../functions/core-functions.php:306
+msgid "Syrian pound"
+msgstr ""
+
+#: ../functions/core-functions.php:307
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: ../functions/core-functions.php:308
+msgid "Thai baht"
+msgstr ""
+
+#: ../functions/core-functions.php:309
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: ../functions/core-functions.php:310
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: ../functions/core-functions.php:311
+msgid "Tunisian dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:312
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: ../functions/core-functions.php:313
+msgid "Turkish lira"
+msgstr ""
+
+#: ../functions/core-functions.php:314
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:315
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:316
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: ../functions/core-functions.php:317
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: ../functions/core-functions.php:318
+msgid "Ugandan shilling"
+msgstr ""
+
+#: ../functions/core-functions.php:319
+msgid "United States dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:320
+msgid "Uruguayan peso"
+msgstr ""
+
+#: ../functions/core-functions.php:321
+msgid "Uzbekistani som"
+msgstr ""
+
+#: ../functions/core-functions.php:322
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: ../functions/core-functions.php:323
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: ../functions/core-functions.php:324
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: ../functions/core-functions.php:325
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: ../functions/core-functions.php:326
+msgid "Central African CFA franc"
+msgstr ""
+
+#: ../functions/core-functions.php:327
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:328
+msgid "West African CFA franc"
+msgstr ""
+
+#: ../functions/core-functions.php:329
+msgid "CFP franc"
+msgstr ""
+
+#: ../functions/core-functions.php:330
+msgid "Yemeni rial"
+msgstr ""
+
+#: ../functions/core-functions.php:331
+msgid "South African rand"
+msgstr ""
+
+#: ../functions/core-functions.php:332
+msgid "Zambian kwacha"
+msgstr ""
+
+#: ../functions/core-functions.php:653
+msgid "Select Room"
+msgstr ""
+
+#: ../functions/core-functions.php:700
+msgid "Select Staff"
+msgstr ""
+
+#: ../functions/core-functions.php:809
+msgid ""
+"If you have booked with us before, please enter your details below. If "
+"you are a new customer, please proceed to the Personal Info section."
+msgstr ""
+
+#: ../functions/core-functions.php:811
+msgid ""
+"If you have booked with us before, please enter your details below. If "
+"you are a new customer, please proceed to the Contact Details section."
+msgstr ""
+
+#: ../functions/core-functions.php:833 ../functions/core-functions.php:835
+msgid "Lost your password?"
+msgstr ""
+
+#: ../functions/core-functions.php:918
+msgid "Select a country / region"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:56
+#: ../post-types/dt-room-post-type.php:206
+#: ../post-types/dt-staff-post-type.php:355
+#: ../templates/room-search-results.php:190
+#: ../widgets/modules/class-widget-reservation-form.php:145
+#: ../widgets/modules/class-widget-reserve-appointment.php:193
+msgid "Rooms"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:59
+#: ../post-types/dt-room-post-type.php:209
+msgid "Category"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:60
+#: ../post-types/dt-room-post-type.php:210
+msgid "Categories"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:64
+#: ../post-types/dt-room-post-type.php:214
+msgid "Amenity"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:65
+#: ../post-types/dt-room-post-type.php:215
+msgid "Amenities"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:69
+#: ../post-types/dt-room-post-type.php:118
+#: ../post-types/dt-room-post-type.php:145
+#: ../post-types/dt-staff-post-type.php:88
+#: ../post-types/dt-staff-post-type.php:137
+msgid "All"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:71
+#: ../post-types/dt-room-post-type.php:72
+#: ../post-types/dt-room-post-type.php:123
+#: ../post-types/dt-room-post-type.php:150
+#: ../post-types/dt-staff-post-type.php:90
+#: ../post-types/dt-staff-post-type.php:91
+#: ../post-types/dt-staff-post-type.php:142
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:73
+#: ../post-types/dt-room-post-type.php:121
+#: ../post-types/dt-room-post-type.php:148
+#: ../post-types/dt-staff-post-type.php:92
+#: ../post-types/dt-staff-post-type.php:140
+msgid "Edit"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:74
+#: ../post-types/dt-room-post-type.php:124
+#: ../post-types/dt-room-post-type.php:151
+#: ../post-types/dt-staff-post-type.php:93
+#: ../post-types/dt-staff-post-type.php:143
+msgid "New"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:75
+#: ../post-types/dt-staff-post-type.php:94
+msgid "View"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:76
+#: ../post-types/dt-room-post-type.php:117
+#: ../post-types/dt-room-post-type.php:144
+#: ../post-types/dt-staff-post-type.php:95
+#: ../post-types/dt-staff-post-type.php:136
+msgid "Search"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:77
+#: ../post-types/dt-staff-post-type.php:96
+msgid "found"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:78
+#: ../post-types/dt-staff-post-type.php:97
+msgid "found in Trash"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:79
+#: ../post-types/dt-room-post-type.php:119
+#: ../post-types/dt-room-post-type.php:120
+#: ../post-types/dt-room-post-type.php:146
+#: ../post-types/dt-room-post-type.php:147
+#: ../post-types/dt-staff-post-type.php:98
+#: ../post-types/dt-staff-post-type.php:138
+#: ../post-types/dt-staff-post-type.php:139
+msgid "Parent"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:86
+#: ../post-types/dt-staff-post-type.php:105
+msgid "Post type archives of "
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:122
+#: ../post-types/dt-room-post-type.php:149
+#: ../post-types/dt-staff-post-type.php:141
+msgid "Update"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:223
+#: ../post-types/dt-staff-post-type.php:177
+msgid "Options"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:229
+msgid "Room Archives Post Layout"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:235
+#: ../post-types/dt-staff-post-type.php:189
+msgid "Post Layout"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:247
+msgid "Number of room Per Page"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:248
+msgid "Enter the number of room to display per page."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:256
+#: ../post-types/dt-staff-post-type.php:214
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:257
+msgid "YES! to enable Room's  excerpt"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:265
+msgid "No.of words"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:272
+#: ../post-types/dt-staff-post-type.php:241
+msgid "Permalinks"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:278
+#: ../post-types/dt-room-post-type.php:294
+#: ../post-types/dt-room-post-type.php:310
+#: ../post-types/dt-staff-post-type.php:247
+#: ../post-types/dt-staff-post-type.php:263
+msgid "Singular"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:280
+#: ../post-types/dt-room-post-type.php:288
+#: ../post-types/dt-room-post-type.php:296
+#: ../post-types/dt-room-post-type.php:304
+#: ../post-types/dt-room-post-type.php:312
+#: ../post-types/dt-room-post-type.php:320
+#: ../post-types/dt-staff-post-type.php:249
+#: ../post-types/dt-staff-post-type.php:257
+#: ../post-types/dt-staff-post-type.php:265
+#: ../post-types/dt-staff-post-type.php:273
+msgid "Change as you like, save options & reload."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:286
+#: ../post-types/dt-room-post-type.php:302
+#: ../post-types/dt-room-post-type.php:318
+#: ../post-types/dt-staff-post-type.php:255
+#: ../post-types/dt-staff-post-type.php:271
+msgid "Plural"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:326
+#: ../post-types/dt-staff-post-type.php:279
+msgid "Single"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:326
+#: ../post-types/dt-room-post-type.php:333
+#: ../post-types/dt-staff-post-type.php:279
+#: ../post-types/dt-staff-post-type.php:286
+msgid "Slug"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:327
+msgid "Do not use characters not allowed in links. Use, eg. room-item "
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:327
+#: ../post-types/dt-room-post-type.php:334
+#: ../post-types/dt-staff-post-type.php:280
+#: ../post-types/dt-staff-post-type.php:287
+msgid "After made changes save permalinks."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:334
+msgid "Do not use characters not allowed in links. Use, eg. room-type "
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:354
+#: ../post-types/dt-staff-post-type.php:487
+#: ../post-types/taxonomy-custom-fields.php:65
+#: ../post-types/taxonomy-custom-fields.php:153
+msgid "Image"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:356
+#: ../post-types/dt-staff-post-type.php:489
+msgid "Cost"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:357
+msgid "Duration"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:371
+msgid "Select"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:379
+#: ../post-types/dt-staff-post-type.php:81
+#: ../post-types/dt-staff-post-type.php:166
+msgid "Staffs"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:384
+msgid "Custom Room Options"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:392
+#: ../post-types/dt-staff-post-type.php:370
+msgid "Gallery Options"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:398
+#: ../post-types/dt-staff-post-type.php:378
+msgid "Gallery Images"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:399
+#: ../post-types/dt-staff-post-type.php:379
+msgid "Simply add images to gallery items."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:400
+#: ../post-types/dt-staff-post-type.php:380
+msgid "Add Images"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:401
+#: ../post-types/dt-staff-post-type.php:381
+msgid "Edit Images"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:402
+#: ../post-types/dt-staff-post-type.php:382
+msgid "Remove Images"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:408
+#: ../post-types/dt-staff-post-type.php:390
+msgid "Mandatory Fields"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:414
+msgid "Room status"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:415
+msgid "switch to YES if room is available."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:423
+msgid "Room Price"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:425
+msgid ""
+"Enter the room price per night for the minimum number of people. "
+"Additional guests will be charged by below price oprion."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:433
+msgid "Room size"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:434
+msgid "Enter room size here. For Example: 220 sq.ft"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:442
+msgid "Room Minimum People"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:443
+msgid "Enter Minimum number of people can stay in this room."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:451
+msgid "Room Maximum People"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:452
+msgid "Enter Maximum number of people can stay in this room."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:460
+msgid "Additional Adult Room Price"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:462
+msgid "Enter room price per night for adult"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:470
+msgid "Additional Children Room Price"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:472
+msgid "Enter room price per night for children."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:480
+msgid "Duration From"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:481
+msgid "Select From time duration here"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:488
+msgid "Duration To"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:489
+msgid "Select To time duration here"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:497
+msgid "Service Settings"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:505
+msgid "Service 1 Name"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:506
+#: ../post-types/dt-room-post-type.php:545
+#: ../post-types/dt-room-post-type.php:584
+#: ../post-types/dt-room-post-type.php:623
+msgid "Enter the name of the service offered."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:511
+msgid "Service 1 Type"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:513
+#: ../post-types/dt-room-post-type.php:552
+#: ../post-types/dt-room-post-type.php:591
+#: ../post-types/dt-room-post-type.php:630
+msgid "Optional"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:514
+#: ../post-types/dt-room-post-type.php:553
+#: ../post-types/dt-room-post-type.php:592
+#: ../post-types/dt-room-post-type.php:631
+msgid "Mandatory"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:520
+msgid "Service 1 Pack"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:522
+#: ../post-types/dt-room-post-type.php:561
+#: ../post-types/dt-room-post-type.php:600
+#: ../post-types/dt-room-post-type.php:639
+msgid "Free"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:523
+#: ../post-types/dt-room-post-type.php:562
+#: ../post-types/dt-room-post-type.php:601
+#: ../post-types/dt-room-post-type.php:640
+msgid "Price per Person"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:524
+#: ../post-types/dt-room-post-type.php:563
+#: ../post-types/dt-room-post-type.php:602
+#: ../post-types/dt-room-post-type.php:641
+msgid "Add Price"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:526
+#: ../post-types/dt-room-post-type.php:565
+#: ../post-types/dt-room-post-type.php:604
+#: ../post-types/dt-room-post-type.php:643
+msgid "Select how the extra service will be calculated."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:531
+msgid "Service 1 Price"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:533
+#: ../post-types/dt-room-post-type.php:572
+#: ../post-types/dt-room-post-type.php:611
+#: ../post-types/dt-room-post-type.php:650
+msgid ""
+"Enter the price for the service. If Service Pack is Free enter price as "
+"\"0\"."
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:544
+msgid "Service 2 Name"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:550
+msgid "Service 2 Type"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:559
+msgid "Service 2 Pack"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:570
+msgid "Service 2 Price"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:583
+msgid "Service 3 Name"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:589
+msgid "Service 3 Type"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:598
+msgid "Service 3 Pack"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:609
+msgid "Service 3 Price"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:622
+msgid "Service 4 Name"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:628
+msgid "Service 4 Type"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:637
+msgid "Service 4 Pack"
+msgstr ""
+
+#: ../post-types/dt-room-post-type.php:648
+msgid "Service 4 Price"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:83
+#: ../post-types/dt-staff-post-type.php:168
+msgid "Department"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:84
+#: ../post-types/dt-staff-post-type.php:169
+msgid "Departments"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:183
+msgid "Staff Archives Post Layout"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:201
+msgid "Style"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:203 ../widgets/register.php:72
+#: ../widgets/register.php:122 ../widgets/register.php:242
+msgid "Default"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:204
+msgid "Rounded"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:208
+msgid "Choose post style to display archive page."
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:215
+msgid "YES! to enable staff's excerpt"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:220
+msgid "Bulk Custom Fields"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:226
+msgid "Custom Fields"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:227
+msgid "Click button to add custom fields like cost, url and available etc"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:228
+msgid "Add New Field"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:229
+msgid "Adding New Custom Field"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:234
+msgid "Enter Text"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:280
+msgid "Do not use characters not allowed in links. Use, eg. staff-item "
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:287
+msgid "Do not use characters not allowed in links. Use, eg. staff-type "
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:352
+msgid "Go to options panel add few custom fields, then return back here."
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:362
+msgid "Custom Staff Options"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:398
+msgid "Role"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:399
+msgid "Put designation here"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:408
+msgid "Specialization"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:409
+msgid "Put Specialization here"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:418
+msgid "Email Address"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:419
+msgid "Put a valid email here"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:428
+msgid "Phone Number"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:429
+msgid "Put a valid phone number here"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:438
+msgid "Social Profile"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:439
+msgid "Add / Edit social link as you like here"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:452
+#: ../post-types/dt-staff-post-type.php:460
+msgid "Optional Fields"
+msgstr ""
+
+#: ../post-types/register-post-types.php:59
+msgid ""
+"WooCommerce is not active taaza. Please install and activate WooCommerce."
+msgstr ""
+
+#: ../post-types/register-post-types.php:109
+msgid "Booking Options"
+msgstr ""
+
+#: ../post-types/register-post-types.php:118
+#: ../post-types/register-post-types.php:125
+msgid "General Options"
+msgstr ""
+
+#: ../post-types/register-post-types.php:131
+msgid "Enable Room's  Categories"
+msgstr ""
+
+#: ../post-types/register-post-types.php:132
+msgid "YES! to enable Room's  taxonomy"
+msgstr ""
+
+#: ../post-types/register-post-types.php:138
+msgid "Enable Room's  Amenities"
+msgstr ""
+
+#: ../post-types/register-post-types.php:139
+msgid "YES! to enable Room's  amenities"
+msgstr ""
+
+#: ../post-types/register-post-types.php:146
+msgid "Enable Staff's Departments"
+msgstr ""
+
+#: ../post-types/register-post-types.php:147
+msgid "YES! to enable staff's taxonomy"
+msgstr ""
+
+#: ../post-types/register-post-types.php:153
+msgid "Enable Price in Staff & Room dropdown"
+msgstr ""
+
+#: ../post-types/register-post-types.php:154
+msgid "YES! to enable price in Staff & Room dropdown"
+msgstr ""
+
+#: ../post-types/register-post-types.php:160
+msgid "Currency"
+msgstr ""
+
+#: ../post-types/register-post-types.php:169
+msgid "Currency Position"
+msgstr ""
+
+#: ../post-types/register-post-types.php:171
+msgid "Left ( $36.55 )"
+msgstr ""
+
+#: ../post-types/register-post-types.php:172
+msgid "Right ( 36.55$ )"
+msgstr ""
+
+#: ../post-types/register-post-types.php:173
+msgid "Left with space ( $ 36.55 )"
+msgstr ""
+
+#: ../post-types/register-post-types.php:174
+msgid "Right with space ( 36.55 $ )"
+msgstr ""
+
+#: ../post-types/register-post-types.php:192
+#: ../post-types/register-post-types.php:197
+msgid "WeDesignTech Settings"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:28
+msgid "Room Amenity"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:72
+msgid "This image will be used in \"Taxonomy\" shortcodes."
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:76
+#: ../post-types/taxonomy-custom-fields.php:170
+msgid "Icon"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:78
+#: ../post-types/taxonomy-custom-fields.php:174
+msgid "Air Condition"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:79
+#: ../post-types/taxonomy-custom-fields.php:175
+msgid "WiFi"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:80
+#: ../post-types/taxonomy-custom-fields.php:176
+msgid "Swimming Pool"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:81
+#: ../post-types/taxonomy-custom-fields.php:177
+msgid "SPA"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:82
+#: ../post-types/taxonomy-custom-fields.php:178
+msgid "Parking Board"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:83
+#: ../post-types/taxonomy-custom-fields.php:179
+msgid "Car Parking"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:84
+#: ../post-types/taxonomy-custom-fields.php:180
+msgid "gym"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:85
+#: ../post-types/taxonomy-custom-fields.php:181
+msgid "Elevator"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:86
+#: ../post-types/taxonomy-custom-fields.php:182
+msgid "Room Bed"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:87
+#: ../post-types/taxonomy-custom-fields.php:183
+msgid "Hotel Dish"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:88
+#: ../post-types/taxonomy-custom-fields.php:184
+msgid "Do Not Disturb"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:89
+#: ../post-types/taxonomy-custom-fields.php:185
+msgid "Fire Production"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:90
+#: ../post-types/taxonomy-custom-fields.php:186
+msgid "Hair Dryer"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:91
+#: ../post-types/taxonomy-custom-fields.php:187
+msgid "Icon Hotel"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:92
+#: ../post-types/taxonomy-custom-fields.php:188
+msgid "Room Key"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:93
+#: ../post-types/taxonomy-custom-fields.php:189
+msgid "Location"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:94
+#: ../post-types/taxonomy-custom-fields.php:190
+msgid "Door Lock"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:95
+#: ../post-types/taxonomy-custom-fields.php:191
+msgid "Lounge"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:96
+#: ../post-types/taxonomy-custom-fields.php:192
+msgid "Menu"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:97
+#: ../post-types/taxonomy-custom-fields.php:193 ../widgets/register.php:197
+msgid "Mobile"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:98
+#: ../post-types/taxonomy-custom-fields.php:194
+msgid "No Smoking"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:99
+#: ../post-types/taxonomy-custom-fields.php:195
+msgid "Passport"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:100
+#: ../post-types/taxonomy-custom-fields.php:196
+msgid "Receipt"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:101
+#: ../post-types/taxonomy-custom-fields.php:197
+msgid "Restaurant"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:102
+#: ../post-types/taxonomy-custom-fields.php:198
+msgid "Room Service"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:103
+#: ../post-types/taxonomy-custom-fields.php:199
+msgid "Housekeeper"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:104
+#: ../post-types/taxonomy-custom-fields.php:200
+msgid "Breakfast"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:105
+#: ../post-types/taxonomy-custom-fields.php:201
+msgid "Shampoo"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:106
+#: ../post-types/taxonomy-custom-fields.php:202
+msgid "Pickup"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:107
+#: ../post-types/taxonomy-custom-fields.php:203
+msgid "Taxi"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:108
+#: ../post-types/taxonomy-custom-fields.php:204
+msgid "Television"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:109
+#: ../post-types/taxonomy-custom-fields.php:205
+msgid "Towel"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:110
+#: ../post-types/taxonomy-custom-fields.php:206
+msgid "Baggage"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:111
+#: ../post-types/taxonomy-custom-fields.php:207
+msgid "Bar"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:112
+#: ../post-types/taxonomy-custom-fields.php:208
+msgid "Bath"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:113
+#: ../post-types/taxonomy-custom-fields.php:209
+msgid "Bowling"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:114
+#: ../post-types/taxonomy-custom-fields.php:210
+msgid "Calender"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:115
+#: ../post-types/taxonomy-custom-fields.php:211
+msgid "Cash"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:116
+#: ../post-types/taxonomy-custom-fields.php:212
+msgid "CCTV Camera"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:117
+#: ../post-types/taxonomy-custom-fields.php:213
+msgid "Secure Camera"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:118
+#: ../post-types/taxonomy-custom-fields.php:214
+msgid "Comport"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:119
+#: ../post-types/taxonomy-custom-fields.php:215
+msgid "Store"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:121
+#: ../post-types/taxonomy-custom-fields.php:217
+msgid "Select an icon for this taxonomy."
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:160
+msgid "Remove Image"
+msgstr ""
+
+#: ../post-types/taxonomy-custom-fields.php:163
+msgid "This image will be used in in \"Taxonomy\" shortcodes."
+msgstr ""
+
+#: ../templates/archive-room.php:110 ../templates/taxonomy-amenity.php:119
+msgid "/Night "
+msgstr ""
+
+#: ../templates/archive-room.php:149 ../templates/archive-staff.php:154
+#: ../templates/taxonomy-category.php:106
+#: ../templates/taxonomy-department.php:117
+msgid " Newer Posts"
+msgstr ""
+
+#: ../templates/archive-room.php:150 ../templates/archive-staff.php:153
+#: ../templates/taxonomy-category.php:105
+#: ../templates/taxonomy-department.php:116
+msgid "Older Posts "
+msgstr ""
+
+#: ../templates/room-search-results.php:73 ../templates/single-room.php:72
+#: ../widgets/modules/class-widget-room-list.php:229
+msgid " / Night "
+msgstr ""
+
+#: ../templates/room-search-results.php:108 ../templates/single-room.php:57
+#: ../templates/taxonomy-amenity.php:153
+#: ../widgets/modules/class-widget-room-item.php:212
+#: ../widgets/modules/class-widget-room-list.php:279
+msgid " Guests"
+msgstr ""
+
+#: ../templates/room-search-results.php:155
+#: ../templates/taxonomy-amenity.php:179
+#: ../widgets/modules/class-widget-room-item.php:361
+#: ../widgets/modules/class-widget-room-list.php:321
+#: ../widgets/modules/class-widget-staff-item.php:307
+msgid "Nothing Found."
+msgstr ""
+
+#: ../templates/room-search-results.php:156
+#: ../templates/taxonomy-amenity.php:180
+#: ../widgets/modules/class-widget-room-item.php:362
+#: ../widgets/modules/class-widget-room-list.php:322
+#: ../widgets/modules/class-widget-staff-item.php:308
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../templates/room-search-results.php:166
+#: ../widgets/modules/class-widget-reservation-form.php:121
+#: ../widgets/modules/class-widget-reserve-appointment.php:169
+msgid "Check-in"
+msgstr ""
+
+#: ../templates/room-search-results.php:178
+#: ../widgets/modules/class-widget-reservation-form.php:133
+#: ../widgets/modules/class-widget-reserve-appointment.php:181
+msgid "Check-out"
+msgstr ""
+
+#: ../templates/room-search-results.php:209
+#: ../widgets/modules/class-widget-reservation-form.php:164
+#: ../widgets/modules/class-widget-reserve-appointment.php:213
+msgid "Guests"
+msgstr ""
+
+#: ../templates/room-search-results.php:217
+#: ../templates/room-search-results.php:218
+#: ../widgets/modules/class-widget-reservation-form.php:173
+#: ../widgets/modules/class-widget-reservation-form.php:175
+#: ../widgets/modules/class-widget-reserve-appointment.php:222
+#: ../widgets/modules/class-widget-reserve-appointment.php:224
+msgid "Adults"
+msgstr ""
+
+#: ../templates/room-search-results.php:218
+#: ../widgets/modules/class-widget-reservation-form.php:175
+#: ../widgets/modules/class-widget-reserve-appointment.php:224
+msgid "Adult"
+msgstr ""
+
+#: ../templates/room-search-results.php:226
+#: ../templates/room-search-results.php:229
+#: ../widgets/modules/class-widget-reservation-form.php:183
+#: ../widgets/modules/class-widget-reservation-form.php:186
+#: ../widgets/modules/class-widget-reserve-appointment.php:232
+#: ../widgets/modules/class-widget-reserve-appointment.php:235
+msgid "Children"
+msgstr ""
+
+#: ../templates/room-search-results.php:227
+#: ../widgets/modules/class-widget-reservation-form.php:184
+#: ../widgets/modules/class-widget-reserve-appointment.php:233
+msgid "2-12 years old"
+msgstr ""
+
+#: ../templates/room-search-results.php:229
+#: ../widgets/modules/class-widget-reservation-form.php:186
+#: ../widgets/modules/class-widget-reserve-appointment.php:235
+msgid "Child"
+msgstr ""
+
+#: ../templates/room-search-results.php:237
+#: ../templates/room-search-results.php:240
+#: ../widgets/modules/class-widget-reservation-form.php:194
+#: ../widgets/modules/class-widget-reservation-form.php:197
+#: ../widgets/modules/class-widget-reserve-appointment.php:243
+#: ../widgets/modules/class-widget-reserve-appointment.php:246
+msgid "Infants"
+msgstr ""
+
+#: ../templates/room-search-results.php:238
+#: ../widgets/modules/class-widget-reservation-form.php:195
+#: ../widgets/modules/class-widget-reserve-appointment.php:244
+msgid "0-2 years old"
+msgstr ""
+
+#: ../templates/room-search-results.php:240
+#: ../widgets/modules/class-widget-reservation-form.php:197
+#: ../widgets/modules/class-widget-reserve-appointment.php:246
+msgid "Infant"
+msgstr ""
+
+#: ../templates/room-search-results.php:248
+#: ../widgets/modules/class-widget-reservation-form.php:205
+#: ../widgets/modules/class-widget-reserve-appointment.php:254
+msgid "Done"
+msgstr ""
+
+#: ../templates/room-search-results.php:257
+#: ../widgets/modules/class-widget-reservation-form.php:214
+msgid "Check Availability"
+msgstr ""
+
+#: ../templates/single-staff.php:67
+msgid "Description"
+msgstr ""
+
+#: ../templates/single-staff.php:77
+msgid "Specialized In"
+msgstr ""
+
+#: ../templates/single-staff.php:88
+msgid "Email Id"
+msgstr ""
+
+#: ../templates/single-staff.php:99
+msgid "Mobile Number"
+msgstr ""
+
+#: ../templates/single-staff.php:110
+msgid "Follow us on"
+msgstr ""
+
+#: ../templates/taxonomy-category.php:83
+msgid "Duration : "
+msgstr ""
+
+#: ../wedesigntech-ultimate-booking-addon.php:145
+#, php-format
+msgid "\"%1$s\" recommended \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../wedesigntech-ultimate-booking-addon.php:146
+msgid "Ultimate Booking Pro"
+msgstr ""
+
+#: ../wedesigntech-ultimate-booking-addon.php:147
+msgid "Elementor"
+msgstr ""
+
+#: ../wedesigntech-ultimate-booking-addon.php:161
+msgid "Booking Manager"
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:20
+msgid "Amenity List"
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:36
+#: ../widgets/modules/class-widget-reservation-form.php:30
+#: ../widgets/modules/class-widget-reserve-appointment.php:30
+#: ../widgets/modules/class-widget-room-item.php:53
+#: ../widgets/modules/class-widget-room-list.php:47
+#: ../widgets/modules/class-widget-staff-item.php:48
+#: ../widgets/modules/class-widget-view-reservations.php:27
+msgid "General"
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:40
+msgid "Select Amenities"
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:48
+msgid "Amenities Per Page"
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:64
+#: ../widgets/register.php:376
+msgid "Gap"
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:91
+msgid "Icon Size"
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:118
+msgid "Title Size"
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:152
+msgid "Show Button"
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:288
+msgid "No Amenities Found."
+msgstr ""
+
+#: ../widgets/modules/class-widget-amenity.php:289
+msgid "There are no amenities available at the moment."
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:13
+msgid "Room Search Form"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:36
+#: ../widgets/modules/class-widget-view-reservations.php:33
+msgid "Appointment"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:42
+#: ../widgets/modules/class-widget-reserve-appointment.php:42
+#: ../widgets/modules/class-widget-room-list.php:137
+#: ../widgets/modules/class-widget-view-reservations.php:39
+msgid ""
+"Style particular element differently - add a class name and refer to it "
+"in custom CSS"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reserve-appointment.php:13
+msgid "Room Booking"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reserve-appointment.php:36
+msgid "Make an Appointment"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reserve-appointment.php:265
+msgid "Extra Services"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reserve-appointment.php:302
+msgid "Your Price"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reserve-appointment.php:307
+msgid "/ per room"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reserve-appointment.php:316
+msgid "Sorry, this room is currently unavailable."
+msgstr ""
+
+#: ../widgets/modules/class-widget-reserve-appointment.php:322
+msgid "Book Your Stay"
+msgstr ""
+
+#: ../widgets/modules/class-widget-room-item.php:75
+msgid "Room Per Page"
+msgstr ""
+
+#: ../widgets/modules/class-widget-room-item.php:107
+#: ../widgets/modules/class-widget-room-list.php:109
+msgid "Show amenity?"
+msgstr ""
+
+#: ../widgets/modules/class-widget-room-item.php:192
+msgid " / Per Night "
+msgstr ""
+
+#: ../widgets/modules/class-widget-room-item.php:306
+msgid " guest room"
+msgstr ""
+
+#: ../widgets/modules/class-widget-room-list.php:59
+msgid "Rooms Per Page"
+msgstr ""
+
+#: ../widgets/modules/class-widget-room-list.php:89
+msgid "Show Price?"
+msgstr ""
+
+#: ../widgets/modules/class-widget-room-list.php:119
+msgid "Show Additional fields?"
+msgstr ""
+
+#: ../widgets/modules/class-widget-staff-item.php:60
+msgid "Staff Per Page"
+msgstr ""
+
+#: ../widgets/modules/class-widget-staff-item.php:72
+msgid "Type - III"
+msgstr ""
+
+#: ../widgets/modules/class-widget-staff-item.php:258
+msgid "Description:"
+msgstr ""
+
+#: ../widgets/modules/class-widget-staff-item.php:264
+msgid "Specialized In:"
+msgstr ""
+
+#: ../widgets/modules/class-widget-staff-item.php:277
+msgid "Social Media:"
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:13
+msgid "View Reservations"
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:49
+msgid "Please logged in to view your complete reservations!"
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:57
+msgid "Welcome "
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:58
+msgid "Order Details:"
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:92
+msgid "Order #"
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:95
+msgid "Amount"
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:97
+msgid "Transaction ID"
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:98
+msgid "Status"
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:120
+msgid ""
+"Sorry you haven't made any purchases yet. Please follow the button to "
+"make your first reservation."
+msgstr ""
+
+#: ../widgets/modules/class-widget-view-reservations.php:123
+msgid "Book Reservation"
+msgstr ""
+
+#: ../widgets/register.php:54 ../widgets/register.php:69
+msgid "Layout"
+msgstr ""
+
+#: ../widgets/register.php:73
+msgid "Column"
+msgstr ""
+
+#: ../widgets/register.php:74
+msgid "Carousel"
+msgstr ""
+
+#: ../widgets/register.php:103
+msgid "Columns"
+msgstr ""
+
+#: ../widgets/register.php:118
+msgid "Columns Gap"
+msgstr ""
+
+#: ../widgets/register.php:123
+msgid "No Gap"
+msgstr ""
+
+#: ../widgets/register.php:124
+msgid "Narrow"
+msgstr ""
+
+#: ../widgets/register.php:125
+msgid "Extended"
+msgstr ""
+
+#: ../widgets/register.php:126
+msgid "Wide"
+msgstr ""
+
+#: ../widgets/register.php:127
+msgid "Wider"
+msgstr ""
+
+#: ../widgets/register.php:128
+msgid "Custom"
+msgstr ""
+
+#: ../widgets/register.php:137
+msgid "Custom Columns Gap"
+msgstr ""
+
+#: ../widgets/register.php:174
+msgid "Enable Snap Scroll"
+msgstr ""
+
+#: ../widgets/register.php:176
+msgid "On"
+msgstr ""
+
+#: ../widgets/register.php:177
+msgid "Off"
+msgstr ""
+
+#: ../widgets/register.php:191 ../widgets/register.php:195
+msgid "Desktop"
+msgstr ""
+
+#: ../widgets/register.php:196
+msgid "Tablet"
+msgstr ""
+
+#: ../widgets/register.php:204
+msgid "Snap Scroll On Devices"
+msgstr ""
+
+#: ../widgets/register.php:222
+msgid "Carousel Options"
+msgstr ""
+
+#: ../widgets/register.php:227
+msgid "Direction"
+msgstr ""
+
+#: ../widgets/register.php:231
+msgid "Horizontal"
+msgstr ""
+
+#: ../widgets/register.php:232
+msgid "Vertical"
+msgstr ""
+
+#: ../widgets/register.php:238
+msgid "Effect"
+msgstr ""
+
+#: ../widgets/register.php:243
+msgid "Fade"
+msgstr ""
+
+#: ../widgets/register.php:244
+msgid "Cube"
+msgstr ""
+
+#: ../widgets/register.php:245
+msgid "Coverflow"
+msgstr ""
+
+#: ../widgets/register.php:246
+msgid "Free Mode"
+msgstr ""
+
+#: ../widgets/register.php:272
+msgid "Slides to Show"
+msgstr ""
+
+#: ../widgets/register.php:285
+msgid "Slides to Scroll"
+msgstr ""
+
+#: ../widgets/register.php:290
+msgid "All visible"
+msgstr ""
+
+#: ../widgets/register.php:291
+msgid "One at a Time"
+msgstr ""
+
+#: ../widgets/register.php:297
+msgid "Marquee"
+msgstr ""
+
+#: ../widgets/register.php:304
+msgid "Mouse Wheel Scroll"
+msgstr ""
+
+#: ../widgets/register.php:311
+msgid "Pagination"
+msgstr ""
+
+#: ../widgets/register.php:315 ../widgets/register.php:417
+msgid "None"
+msgstr ""
+
+#: ../widgets/register.php:316
+msgid "Dots"
+msgstr ""
+
+#: ../widgets/register.php:317
+msgid "Fraction"
+msgstr ""
+
+#: ../widgets/register.php:318
+msgid "Progress"
+msgstr ""
+
+#: ../widgets/register.php:319
+msgid "Scrollbar"
+msgstr ""
+
+#: ../widgets/register.php:325
+msgid "Arrows"
+msgstr ""
+
+#: ../widgets/register.php:334
+msgid "Arrow Prev Icon"
+msgstr ""
+
+#: ../widgets/register.php:346
+msgid "Arrow Next Icon"
+msgstr ""
+
+#: ../widgets/register.php:356
+msgid "Transition Duration"
+msgstr ""
+
+#: ../widgets/register.php:363
+msgid "Unequal Height Compatability"
+msgstr ""
+
+#: ../widgets/register.php:396
+msgid "Autoplay"
+msgstr ""
+
+#: ../widgets/register.php:403
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../widgets/register.php:413
+msgid "Autoplay Direction"
+msgstr ""
+
+#: ../widgets/register.php:418
+msgid "Left"
+msgstr ""
+
+#: ../widgets/register.php:419
+msgid "Right"
+msgstr ""
+
+#: ../widgets/register.php:428
+msgid "Allow Touch"
+msgstr ""
+
+#: ../widgets/register.php:434
+msgid "Infinite Loop"
+msgstr ""
+
+#: ../widgets/register.php:444
+msgid "Centered Slides"
+msgstr ""
+
+#: ../widgets/register.php:454
+msgid "Pause on Interaction"
+msgstr ""
+
+#: ../widgets/register.php:463
+msgid "Overflow Opacity"
+msgstr ""
+
+#: ../widgets/register.php:543
+msgid "Prev"
+msgstr ""
+
+#: ../widgets/register.php:544
+msgid "Next"
+msgstr ""

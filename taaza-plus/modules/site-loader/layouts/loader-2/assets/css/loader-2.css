@@ -1,0 +1,77 @@
+/*--------------------------------------------------------------
+    Loader
+--------------------------------------------------------------*/
+
+.pre-loader { height: 100%; left: 0; position: fixed; top: 0; width: 100%; z-index: 999991; background-color: var(--wdtBodyBGColor); }
+
+.loader-inner { text-transform: uppercase; width: 100%; text-align: center; height: 100%;
+    margin: auto; position: absolute; left: 0; right: 0; top: 50%; transform: translateY(-50%); }
+
+.loader-inner .loader-bubbles { -webkit-filter: url("#wdt_mozion"); filter: url("#wdt_mozion");
+    position: absolute; top: 0; left: 0; bottom: 0; right: 0; }
+
+.loader-inner .loader-bubbles .loader-bubble {
+    position: absolute; margin: auto; top: 0; bottom: 0; right: 0; left: 0; width: clamp(4.375rem, 3.9423rem + 1.9231vw, 6.25rem); /* 70px - 100px */ 
+    height: clamp(4.375rem, 3.9423rem + 1.9231vw, 6.25rem); /* 70px - 100px */ border-radius: 50%; background-color: var(--wdtPrimaryColor); }
+
+.loader-inner .loader-bubbles .loader-bubble:nth-child(1) { animation: wdtBubble_left cubic-bezier(0.770, 0.000, 0.175, 1.000) 2s infinite; }
+.loader-inner .loader-bubbles .loader-bubble:nth-child(2) { animation: wdtBubble_right cubic-bezier(0.770, 0.000, 0.175, 1.000) 2s infinite; }
+
+@keyframes wdtBubble_left {
+    0%   {transform:scale(1.0) translate(0, 0);}
+    33%  {transform:scale(0.55, 0.5) translate(80px, 0);}
+    66%  {transform:scale(0.8) translate(0, 0);}
+    100% {transform:scale(1.0) translate(0, 0);}
+}
+
+@keyframes wdtBubble_right {
+    0%   {transform:scale(1.0) translate(0, 0);}
+    33%  {transform:scale(0.55, 0.5) translate(-80px, 0);}
+    66%  {transform:scale(0.8) translate(0, 0);}
+    100% {transform:scale(1.0) translate(0, 0);}
+}
+
+@keyframes wdt_tazah {
+    0%   {transform:scale(1.0); opacity:1;}
+    20%  {transform:scale(1.0); opacity:0;}
+    40%  {transform:scale(0.5); opacity:0;}
+    66%  {transform:scale(0.8); opacity:1;}
+    100% {transform:scale(1.0); opacity:1;}
+}
+
+.loader-inner .loader-bubbles .wdtLoader-logo { position: absolute; height: clamp(1.875rem, 1.7308rem + 0.641vw, 2.5rem); /* 30px - 40px*/ 
+    width: clamp(1.875rem, 1.7308rem + 0.641vw, 2.5rem); /* 30px - 40px*/ 
+    left: calc(50% - calc(clamp(1.875rem, 1.7308rem + 0.641vw, 2.5rem) / 2));  /* 30px - 40px*/
+    top: calc(50% - calc(clamp(1.875rem, 1.7308rem + 0.641vw, 2.5rem) / 2));  /* 30px - 40px*/
+    animation: wdt_tazah cubic-bezier(0.770, 0.000, 0.175, 1.000) 2s infinite; color: var(--wdtAccentTxtColor); font-size: 38px; 
+    display: flex; align-items: center; justify-content: center; }
+
+.loader-inner .loader-bubbles .wdtLoader-logo svg { display: inline-flex; }
+
+
+
+/*--------------------------------------------------------------
+    Accents
+--------------------------------------------------------------*/
+
+    .loader-inner .loader-text:after { background-color: var(--wdtPrimaryColor); }
+
+
+/*--------------------------------------------------------------
+    Responsive
+--------------------------------------------------------------*/
+
+/*----*****---- << Mobile (Landscape) >> ----*****----*/
+
+/* Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+
+
+/* Common Styles for the devices below 479px width */
+
+@media only screen and (max-width: 479px) {
+
+}

@@ -1,0 +1,44 @@
+
+.wdt-redeem-coupon-wrapper { width: 100%; max-width: 1000px; }
+
+.wdt-redeem-coupon-wrapper .wdt-redeem-coupon-content { text-align: left; width: 100%;
+    padding: clamp(1.25rem, 1.1058rem + 0.641vw, 1.875rem) /* 20px - 30px */; border: 1px solid var(--wdtBorderColor); }
+
+.wdt-redeem-coupon-wrapper .wdt-redeem-coupon-content > div:not(:last-child) { margin: 0 0 14px; }
+
+.wdt-redeem-coupon-wrapper .wdt-redeem-coupon-content .wdt-redeem-title { margin: 0; }
+
+.wdt-redeem-coupon-wrapper .wdt-redeem-coupon-content .wdt-redeem-coupon-code { 
+    display: inline-block; margin-top: 10px; border: 2px dashed var(--wdt-elementor-color-accent); }
+ 
+ .wdt-redeem-coupon-wrapper .wdt-redeem-coupon-content #wdt-copy-coupon-code, 
+ .wdt-redeem-coupon-wrapper .wdt-redeem-coupon-content .wdt-copy-code { 
+     display: inline-block; padding: var(--wdtPadding_Btn); }
+ 
+ .wdt-redeem-coupon-wrapper .wdt-redeem-coupon-content #wdt-copy-coupon-code { font-family: var(--wdtFontTypo_Alt); font-weight: 600; }
+ .wdt-redeem-coupon-wrapper .wdt-redeem-coupon-content .wdt-copy-code { background-color: var(--wdtTertiaryColor); 
+     -webkit-clip-path: inset(5px); clip-path: inset(5px); cursor: pointer; font-size: 14px; 
+     transition: var(--wdt-Ad-Transition); min-width: 160px; text-align: center; }
+
+    .wdt-redeem-coupon-wrapper .wdt-redeem-coupon-content .wdt-copy-code:hover { 
+        background-color: var(--wdt-elementor-color-accent); color: var(--wdt-elementor-color-white); }
+
+/* Image Group */
+
+.wdt-redeem-coupon-wrapper .wdt-redeem-coupon-image { display: grid; }
+
+.wdt-redeem-coupon-wrapper .wdt-redeem-coupon-image > div { grid-area: 1/-1; }
+
+.wdt-redeem-coupon-wrapper .wdt-redeem-coupon-image > div.wdt-redeem-coupon-offer { 
+    align-self: start; justify-self: end; display: flex; flex-direction: column; justify-content: center; align-items: center;
+    margin: 20px; aspect-ratio: 1; padding: 10px; background-color: var(--wdt-elementor-color-black); color: var(--wdt-elementor-color-white);
+    text-align: center; text-transform: capitalize; font-family: var(--wdtFontTypo_Alt); font-weight: var(--wdtFontWeight_Alt, 600); 
+    font-size: clamp(1.625rem, 1.5673rem + 0.2564vw, 1.875rem) /* 26px - 30px */; width: clamp(4.875rem, 4.5577rem + 1.4103vw, 6.25rem) /* 78px - 100px */; 
+    line-height: 1; border-radius: 50%; }
+
+.wdt-redeem-coupon-wrapper .wdt-redeem-coupon-image > div.wdt-redeem-coupon-price { place-self: end; padding: 10px 20px; margin: 12px;
+    background: var(--wdt-elementor-color-accent); color: var(--wdt-elementor-color-white); text-transform: capitalize;
+    font-family: var(--wdtFontTypo_Alt); font-weight: var(--wdtFontWeight_Alt, 600); font-size: clamp(1.125rem, 1.0962rem + 0.1282vw, 1.25rem); }
+
+.wdt-redeem-coupon-wrapper .wdt-redeem-coupon-image > div.wdt-redeem-coupon-price .wdt-price {
+    font-size: clamp(1.625rem, 1.5673rem + 0.2564vw, 1.875rem) /* 26px - 30px */; line-height: 0.8; }

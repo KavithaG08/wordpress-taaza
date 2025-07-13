@@ -1,0 +1,41 @@
+
+
+/* Staff Item - Type III */
+
+
+.dt-sc-staff-item.type3 { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 40px; align-items: center; }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-details { padding: 0px; text-align: left; }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-details > div:empty { display: none; }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-details > div:not(:last-child) { margin: 0 0 20px; }
+.dt-sc-staff-item.type3 .dt-sc-staff-details > .dt-sc-content-sub-title + .dt-sc-content-title { margin-top: -14px; }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-details .staff-opt-title { margin: 0 0 10px; font-weight: 600; }
+.dt-sc-staff-item.type3 .dt-sc-staff-details .staff-opt-value { margin: 0px; }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-details div.dt-sc-staff-special-container,
+.dt-sc-staff-item.type3 .dt-sc-staff-details .dt-sc-staff-social-container { display: flex; flex-wrap: wrap; width: calc(100% + 10px); }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-details div.dt-sc-staff-special-container { margin: -5px; margin-bottom: 15px; }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-details .dt-sc-staff-special-container > .staff-opt-title,
+.dt-sc-staff-item.type3 .dt-sc-staff-details .dt-sc-staff-special-container > .staff-opt-value { padding: 5px; margin: 0px; }
+
+
+.dt-sc-staff-item.type3 .dt-sc-staff-details .dt-sc-staff-social-container { margin: -5px; }
+.dt-sc-staff-item.type3 .dt-sc-staff-details .dt-sc-staff-social-container > .staff-opt-title,
+.dt-sc-staff-item.type3 .dt-sc-staff-details .dt-sc-staff-social-container > .social-media { padding: 5px; margin: 0px; }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-details .dt-sc-team-social { margin: 0px; padding: 0px; }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-image,
+.dt-sc-staff-item.type3 .dt-sc-staff-image .dt-sc-image-wrapper { display: block; width: 100%; height: 100%; }
+
+.dt-sc-staff-item.type3 .dt-sc-staff-image .dt-sc-image-wrapper img { width: 100%; height: 100%; object-fit: cover; object-position: center center; }
+
+
+
+/* AT Media Rules - Responsive */
+

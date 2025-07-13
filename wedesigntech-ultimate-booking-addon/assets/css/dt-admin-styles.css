@@ -1,0 +1,7 @@
+
+
+/* Admin Page Styles */
+
+
+.wp-admin .dt-upload-media-items-container .dt-image-preview-holder { margin-top: 20px; width: 100px; height: auto; }
+.wp-admin .dt-upload-media-items-container .dt-image-preview-holder img { max-width: 100%; height: auto; }
